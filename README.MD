@@ -1,4 +1,5 @@
 # Lario and Muigi Pipe Problem
+https://www.codewars.com/kata/56b29582461215098d00000f/train/java/66b5b685388b13479204e9fd
 
 ## Problem Statement
 Ensure a sequence of numbers is complete without any gaps. Given a sorted list of unique numbers, return a new list where missing numbers in the sequence are filled in.
